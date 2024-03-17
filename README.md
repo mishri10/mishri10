@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridhima Mishra</h1>
 <h3 align="center">A passionate Computer Science Engineer</h3>
+<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishri10&label=Profile%20views&color=0e75b6&style=flat" alt="mishri10" /> </p>
 
@@ -17,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishri10&show_icons=true&locale=en&layout=compact" alt="mishri10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishri10&show_icons=true&locale=en" alt="mishri10" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mishri10&show_icons=true&locale=en" alt="mishri10" /></p>
